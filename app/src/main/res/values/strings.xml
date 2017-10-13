@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GolfCoursesWishList</string>
+    <string name="title_list">Show as list</string>
+    <string name="title_grid">Show as grid</string>
+</resources>
